@@ -1,0 +1,136 @@
+body{
+     background:#0a0a32;
+     margin:0;
+}
+
+.container{
+     width:1000px;
+     margin:0 auto;
+     background:#ffd800;
+
+}
+
+.header{
+     padding: 30px 20px 20px 40px;
+     border: #0a0a32;
+     text-align:center;
+     font-family:Georgia;
+     font-size:24px;
+     
+}
+
+.menu{
+     background:#0a0a32;
+     padding:6px 0 6px 40px;
+}
+
+.menu a{
+     color:#f6eef5;
+     text-decoration: none;
+     font-size:16px;
+     font-family:Arial;
+}
+
+.menu a:hover{
+     color:#ffd800;
+}
+
+.page-heading{
+     text-align: center;
+    
+}
+
+aside{
+     float:left;
+     width:120px;
+     padding: 30px 0 0 40px;
+}
+
+h1{
+     margin: 0px;
+     color:#0a0a32;
+     font-size: 24px;
+     font-family:Arial;
+     font-weight: normal;
+    
+}
+
+h2{
+     color:#0a0a32;
+     font-size:15px;
+     margin:20px 0 5px 0;
+}
+
+.main{
+     margin: 0 0 0 180px;
+     padding: 35px 40px 30px 0px;
+     color:#0a0a32;
+     font-family: Arial;
+     font-size: 12px;
+     line-height: 18px;
+     text-align:justify;
+}
+
+.main a:hover {
+     color:#ffd800;
+}
+
+
+
+.center {
+  display: block;
+  margin-left: 270px;
+  margin-right: 200px;
+  width: 30%;
+  height:30%;
+}
+
+footer {
+     padding:6px 40px 6px 40px;
+     background:#ff5e00;
+     font-family: Arial;
+     color:#f6eef5;
+     font-size:12px;
+     text-align:center;
+
+}
+
+/**********************About Page Style!*****************/
+
+#contact #form{
+     width: 500px;
+     border: 2px solid black;
+     padding: 20px 20px 20px 20px;
+     margin: 0 auto;
+     box-shadow: 0px 9px 13px 5px;
+     border-radius: 5px;
+}
+
+#contact #form input{
+     width:100%;
+     border-radius: 5px;
+     height: 20px;
+     background:#e9eded;
+}
+
+#contact #form #message{
+      width:100%;
+     border-radius: 5px;
+   
+     background:#e9eded;
+}
+
+#contact #form #submit{
+     height:30px;
+     background:#e9eded;
+     
+}
+
+#contact #form #color a:hover{
+  color: #f80303;
+  background-color: transparent;
+  text-decoration: underline;
+     
+}
+
+
